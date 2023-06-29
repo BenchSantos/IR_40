@@ -1,0 +1,24 @@
+Literature reviews and supporting information supporting the group Position.
+
+Technology observations
+
+The manufacturing industry is undergoing a significant shift known as the Fourth Industrial Revolution, or IR 4.0, which is being fueled by new digital technologies from previous revolutions, including artificial intelligence (AI), robots (Cobots), the Internet of Things (IoT), 3D printing, and many more. The primary technologies that are helping manufacturers to automate processes, improve operations, develop new products and services, and use new analytics to forecast demand and adjust output accordingly are only a few of those that are described above. These technological advancements implemented in manufacturing are improving the way our society produces goods. The goal of this study is to show how IR 4.0 will change and revolutionize modern manufacturing and the benefits of using this new technological advancement in this industry.
+
+The related literature reviews for this study are presented in this part of the paper, which revolved around the positive benefits of IR 4.0 in the manufacturing sector. 
+
+With the rise of electronics, telecommunications, and, of course, computers during the third revolution, various technological advancements have since been made with the help of the said technology. We've been able to come up with and improve in AI, robotics, IoT, and many more, which in the current IR 4.0 can already be used to improve the way we do things in the manufacturing sector, as stated in a study by the World Economic Forum that found that Industry 4.0 technologies have the potential to increase efficiency in manufacturing by up to 30% while reducing operational costs by up to 25% (World Economic Forum, 2018). which will have a huge impact on the manufacturing industry, as also found out in another study by Deloitte, which suggested that Industry 4.0 technologies could generate up to $3.7 trillion in value for the global manufacturing industry by 2025 (Deloitte, 2016). With the introduction of new technologies, the needed workforce is also starting to shift, as IR 4.0 is also changing the skillset required in the industry, as According to McKinsey & Company, Industry 4.0 is projected to transform the skill sets of the workforce by shifting the standards for sought-after talent. Over the coming decade, these changes will be increasingly evident as more and more companies embrace robotics (McKinsey & Company, 2019).
+
+Technology Literature Reviews
+
+To further explore the positive impacts and benefits of IR 4.0 technologies on the manufacturing sector, it is important to delve into the specific technologies that are driving this revolution. A growing body of literature has shown the immense potential of technologies like artificial intelligence (AI), robotics, 3D printing, automation, and analysis to improve various aspects of manufacturing.
+
+For instance, a study by Rao et al. (2021) highlights the use of AI in manufacturing, which can improve quality control, reduce downtime, and increase production efficiency by identifying patterns and anomalies in data.
+
+Similarly, the implementation of robotics in manufacturing, as discussed by Meier et al. (2019), can lead to increased production efficiency, reduced costs, and improved safety for workers by automating repetitive or dangerous tasks.
+
+Meanwhile, Kumari et al. (2020) show that 3D printing can enable on-demand production of complex and customized parts, leading to increased customization, reduced waste, and improved supply chain efficiency.
+
+Finally, the implementation of automation and analysis technologies, as discussed by Jiang et al. (2018), can lead to improved inventory management, reduced lead times, and increased supply chain visibility by enabling real-time tracking of production and logistics data.
+
+Overall, findings point to the potential for IR 4.0 technologies to change current manufacturing and help the industry greatly and further revolutionize the current process and ways we are using.
+
