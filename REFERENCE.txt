@@ -1,0 +1,33 @@
+▪ Reference
+
+Dudek, P., & Kunc, V. (2020). Industry 4.0 and Additive Manufacturing: A Review. Applied Sciences, 10(22), 8072. https://doi.org/10.3390/app10228072
+
+Iberdrola. (2021). FOURTH TECHNOLOGICAL REVOLUTION. Iberdrola. https://www.iberdrola.com/innovation/fourth-industrial-revolution
+
+Garcia-Sabater, J. P., Florez-Lopez, R., & Belmonte-Urena, L. J. (2019). Human-Robot Collaboration: A Literature Review and Research Agenda for Industry 4.0. Journal of Manufacturing Systems, 50, 70-81. https://doi.org/10.1016/j.jmsy.2019.03.006
+
+Graetz, G., Michaels, G., & Michaels, O. (2015). Robots at work. CEP Discussion Paper No. 1330.
+
+Jardim-Goncalves, R., Grilo, A., & Mendonca, J. P. (2017). Big Data for Industry 4.0: A Reference Model Architecture. Procedia Manufacturing, 13, 1497-1504. https://doi.org/10.1016/j.promfg.2017.09.170
+
+Kagermann, H., Wahlster, W., & Helbig, J. (2013). Recommendations for Implementing the Strategic Initiative INDUSTRIE 4.0. Forschungsunion, acatech, Berlin. https://www.acatech.de/wp-content/uploads/2018/03/Recommendations-for-Implementing-the-Strategic-Initiative-INDUSTRIE-4.0.pdf
+
+Kong, X., Nie, Y., & Shuai, B. (2017). Additive manufacturing of metals: A review. Journal of Materials Engineering and Performance, 26(10), 4650-4661.
+
+Lee, J., & Kao, H.-A. (2018). The Convergence of Big Data and Artificial Intelligence in Industry 4.0. Journal of Industrial and Production Engineering, 35(5), 315-318. https://doi.org/10.1080/21681015.2018.1431142
+
+Wang, Y., Gunasekaran, A., Ngai, E. W., & Papadopoulos, T. (2016). Big data analytics in logistics and supply chain management: Certain investigations for research and applications. International Journal of Production Economics, 176, 98-110.
+
+Rao, R., Sharma, R., & Raghuram, S. (2021). Industry 4.0 technologies for manufacturing: A review. Journal of Manufacturing Systems, 59, 302-318.   https://doi.org/10.1016/j.jmsy.2021.01.010 
+
+Meier, H., Korn, O., Polani, D., & Stürzl, W. (2019). Industry 4.0: Renewal of manufacturing systems in the context of digitalisation. In Robotics and Automation in Construction (pp. 11-16). Springer. https://doi.org/10.1007/978-3-319-94589-1_2 
+
+Kumari, A., Mishra, S. K., & Sahu, S. (2020). Additive manufacturing: A review on current state and future prospects. Materials Today: Proceedings, 21, 132-137. https://doi.org/10.1016/j.matpr.2019.12.290 
+
+Jiang, J., He, Y., Wang, L., & Hu, Z. (2018). Industrial big data for Industry 4.0: A survey. IEEE Access, 6, 65325-65343. https://doi.org/10.1109/ACCESS.2018.2879131 
+
+World Economic Forum. (2018). The Impact of the Fourth Industrial Revolution on Supply Chains. https://www.weforum.org/whitepapers/the-impact-of-the-fourth-industrial-revolution-on-supply-chains
+
+McKinsey & Company. (2018). The Digital Revolution in Manufacturing. Retrieved from https://www.mckinsey.com/business-functions/operations/our-insights/the-digital-revolution-in-manufacturing. 
+
+
