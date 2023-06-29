@@ -1,6 +1,6 @@
 Literature reviews and supporting information supporting the group Position.
 
-Technology observations
+Technology observations.
 
 The manufacturing industry is undergoing a significant shift known as the Fourth Industrial Revolution, or IR 4.0, which is being fueled by new digital technologies from previous revolutions, including artificial intelligence (AI), robots (Cobots), the Internet of Things (IoT), 3D printing, and many more. The primary technologies that are helping manufacturers to automate processes, improve operations, develop new products and services, and use new analytics to forecast demand and adjust output accordingly are only a few of those that are described above. These technological advancements implemented in manufacturing are improving the way our society produces goods. The goal of this study is to show how IR 4.0 will change and revolutionize modern manufacturing and the benefits of using this new technological advancement in this industry.
 
